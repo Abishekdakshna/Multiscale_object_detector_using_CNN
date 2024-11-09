@@ -1,1 +1,1 @@
-# Multiscale_object_detector_using_CNNsin
+# Multiscale_object_detector_using_CNN
