@@ -1,1 +1,1 @@
-# Multiscale_object_detector_using_CNN
+# Multiscale object detector using CNN
